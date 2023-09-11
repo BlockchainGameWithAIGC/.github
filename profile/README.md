@@ -1,12 +1,18 @@
-## Hi there 👋
+# iCat（Blockchain Game Based on AIGC）
 
-<!--
+This project is aimed to teach web2 developers to contribute in Web3.
 
-**Here are some ideas to get you started:**
+## Technology Stack
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Front End
+  - [Next.js](https://nextjs.org/): A React framework for frontend.
+  - [Tailwindcss](https://tailwindcss.com/): A utility-first CSS framework.
+  - [Wagmi](https://wagmi.sh/) / [Viem](https://viem.sh/): React Hooks / Interface with Ethereum.
+  - [RainbowKit](https://www.rainbowkit.com/): The best way to connect to evm blockchain.
+- Blockchain
+  - [Solidity](https://soliditylang.org/): Smart contract coding language.
+  - Hardhat: A smart contract testing framework.
+
+## Ach\\knowledgements
+
+- [LiChao](https://faculty.bjtu.edu.cn/9363/): mentor

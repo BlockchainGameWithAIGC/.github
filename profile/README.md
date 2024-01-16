@@ -19,10 +19,3 @@ This project is aimed to teach web2 developers to contribute in Web3.
 
 - [Chao Li](https://faculty.bjtu.edu.cn/9363/): Mentor of this project.
 - [Foundry](https://book.getfoundry.sh/): A blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-
-### TODO
-
-- [ ] 修复 wallet connect 和签到的 bug (several hours);
-  - [x] 签到 bug 已修复
-- [ ] 写除了 AIGC 之外的其他开发文档 (4 - 5 days);
-- [ ] 学习 midjourney 的 prompt，出图，编写文档 (3-4 days).
